@@ -1,6 +1,6 @@
 # Webpack Starter
 
-This is a bacis project to create a an app using webpack.
+This is a bacis project of an app that store tasks.
 
 ### Notes:
 
